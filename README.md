@@ -16,3 +16,4 @@ posição impar:
 - 2º caso: a posição do termo seja par, obedeça a seguinte condição: Ai=Ai-1 - Ai-2, para
 posição par.
 
+https://github.com/Mau-siq/Fetuccine
