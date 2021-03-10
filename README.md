@@ -3,7 +3,7 @@
 by
   Mauricio Siqueira
 	
-	Discente do Instituto Federal de Técnologia de São Paulo (IFSP)
+	Discente do Instituto Federal de Tecnologia de São Paulo (IFSP)
   
 O projeto Fetuccine se trata de um código desenvolvido em C, cujo objetivo é calcular a sequência Fetuccine. 
 
