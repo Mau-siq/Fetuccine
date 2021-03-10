@@ -1,0 +1,13 @@
+<xml xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:dcterms>
+<dc:type>Software</dc:type>
+<dc:title>Fetuccine</dc:title>
+<dc:creator>Mauricio Siqueira</dc:creator>
+<dc:publisher>Mauricio Siqueira</dc:publisher>
+<dc:created>2021-03-10</dc:created>
+<dc:modified>2021-03-10</dc:modified>
+<dc:source>https://github.com/Mau-siq/Fetuccine</dc:source>
+<dc:license>GNU General Public License</dc:license>
+<dc:provenance>Projeto para uso livre</dc:provenance>
+</dc:dcterms>
+</xml>
